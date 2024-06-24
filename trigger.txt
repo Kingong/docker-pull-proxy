@@ -1,1 +1,2 @@
 b3log/siyuan:v3.0.17 registry.cn-hangzhou.aliyuncs.com/askying/b3log/siyuan:v3.0.17
+nriver/trilium-cn:0.62.4 registry.cn-hangzhou.aliyuncs.com/askying/nriver/trilium-cn:0.62.4
