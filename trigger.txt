@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+b3log/siyuan:v3.0.17 registry.cn-hangzhou.aliyuncs.com/askying/b3log/siyuan:v3.0.17
